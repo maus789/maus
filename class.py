@@ -40,4 +40,4 @@
 #             def my private_method(self, value):(
 #                 print(f"Private method called with value: {value}"))
 #
-# obj = #
+# obj = MyClass(42)
